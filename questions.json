@@ -5,9 +5,63 @@
             {
                 "rep" : "1",
                 "isCorrect" : true
+            },
+            {
+                "rep" : "undefined",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "2",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Syntax error",
+                "isCorrect" : false
+            }
+            
+        ]
+        },
+        {"question" : "Quelle est la différence entre HTTP et HTTPS",
+        "reps" : [
+            {
+                "rep" : "HTTPS utilise plusieurs HTTP",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "HTTPS est une version sécurisée de HTTP",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Tout, ils n'ont rien à voir",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "C'est un super HTTP",
+                "isCorrect" : false
             }
         ]
         },
+        {"question" : "Qu'est-ce que Bootstrap ?",
+        "reps" : [
+            {
+                "rep" : "Un site frauduleux de vente de chaussures",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Une filiale de Twitter qui vend des chaussures uniquement aux devs",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Un framework CSS",
+                "isCorrect" : true
+            }
+        ]
+        },
+
         {
             "question": "Vous avez gagné !"
         }
@@ -173,12 +227,57 @@
                 "isCorrect":false
             },
             {
-                "rep": 7,
+                "rep": "7",
                 "isCorrect":true
+            },
+            {
+                "rep" : "2 fois le nombre total de dragons",
+                "isCorrect" : false
             }
         ]
 
         },
+        {"question" : "Qui est le créateur de One Piece ?",
+        "reps" : [
+            {
+                "rep" : "尾田 栄一郎",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Eiichiro Oda",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Jack Sparrow",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Masashi Kishimoto",
+                "isCorrect" : false
+            }
+        ]
+        },
+        {"question" : "Quel studio d'animation est connu pour la création de films tels que 'Le Voyage de Chihiro' et 'Princesse Mononoke' ?",
+        "reps" : [
+            {
+                "rep" : "Pixar",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Miyazaki Prod",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Studio Ghibli",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Disney",
+                "isCorrect" : false
+            }
+        ]
+        },
+        
         {
             "question": "Vous avez gagné !"
         }
