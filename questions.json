@@ -1,0 +1,188 @@
+{
+    "dev" : [
+        {"question" : "0++ = ?",
+        "reps" : [
+            {
+                "rep" : "1",
+                "isCorrect" : true
+            }
+        ]
+        },
+        {
+            "question": "Vous avez gagné !"
+        }
+    ],
+    
+    "maths" :[
+    {
+        "question": "Quelle est la somme des angles intérieurs d'un triangle ?",
+        "reps": [
+            {
+                "rep": "180°",
+                "isCorrect": true
+            },
+            {
+                "rep": "120°",
+                "isCorrect": false
+            },
+            {
+                "rep": "90°",
+                "isCorrect": false
+            },
+            {
+                "rep": "360°",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "cos²(x)+sin²(x)= ?",
+        "reps": [
+            {
+                "rep": "Rien de spécial",
+                "isCorrect": false
+            },
+            {
+                "rep": "π",
+                "isCorrect": false
+            },
+            {
+                "rep": "0",
+                "isCorrect": false
+            },
+            {
+                "rep": "1",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Résoudre pour x : 2x+5=15",
+        "reps": [
+            {
+                "rep": "x=7",
+                "isCorrect": false
+            },
+            {
+                "rep": "x=5",
+                "isCorrect": true
+            },
+            {
+                "rep": "x=10",
+                "isCorrect": false
+            },
+            {
+                "rep": "x=15",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Quelle est la racine carrée de 144 ?",
+        "reps": [
+            {
+                "rep": "10",
+                "isCorrect": false
+            },
+            {
+                "rep": "12",
+                "isCorrect": true
+            },
+            {
+                "rep": "14",
+                "isCorrect": false
+            },
+            {
+                "rep": "16",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Si un cercle a un rayon de 5 unités, quelle est sa circonférence ?",
+        "reps": [
+            {
+                "rep": "5π unités",
+                "isCorrect": false
+            },
+            {
+                "rep": "10π unités",
+                "isCorrect": true
+            },
+            {
+                "rep": "15π unités",
+                "isCorrect": false
+            },
+            {
+                "rep": "25π unités",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Résoudre l'inéquation pour x: 2x-8 < 10",
+        "reps": [
+            {
+                "rep": "x < 9",
+                "isCorrect": true
+            },
+            {
+                "rep": "x < 10",
+                "isCorrect": false
+            },
+            {
+                "rep": "x < 6",
+                "isCorrect": false
+            },
+            {
+                "rep": "x > 9",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Donnez la dérivée de f(x)=3x²+3x-5",
+        "reps": [
+            {
+                "rep": "5x-3",
+                "isCorrect": false
+            },
+            {
+                "rep": "6x+2",
+                "isCorrect": false
+            },
+            {
+                "rep": "6x+3",
+                "isCorrect": true
+            },
+            {
+                "rep": "2x+3",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Vous avez gagné !"
+    }
+    ],
+    "anime" : [
+        {"question" : "Combien la Terre a de dragon balls ?",
+        "reps": [
+            {
+                "rep": "10",
+                "isCorrect":false
+            },
+            {
+                "rep": 7,
+                "isCorrect":true
+            }
+        ]
+
+        },
+        {
+            "question": "Vous avez gagné !"
+        }
+    ]
+
+
+}
