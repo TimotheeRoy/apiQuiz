@@ -61,12 +61,90 @@
             }
         ]
         },
-
+        {"question" : "Parmi ces langages, lequel est orienté objet ?",
+        "reps" : [
+            {
+                "rep" : "C",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Java",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Assembly",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "HTML",
+                "isCorrect" : false
+            }
+        ]
+        },
+        {"question" : "Quel paradigme est associé à la programmation fonctionnelle ?",
+        "reps" : [
+            {
+                "rep" : "Impérative",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Orienté objzt",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Déclarative",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Procédurale",
+                "isCorrect" : false
+            }
+        ]
+        },
+        {"question" : "Quel est le langage utilisé principalement pour le développement d'applications IOS ?",
+        "reps" : [
+            {
+                "rep" : "Swift",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Java",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Kotlin",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Apple",
+                "isCorrect" : false
+            }
+        ]
+        },
+        {"question" : "Quel est le rôle d'un interpréteur ?",
+        "reps" : [
+            {
+                "rep" : "Convertir le code source en langage machine",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Optimiser le code pour des performances maximales",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Faciliter la collaboration entre devs",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Exécuter le code source ligne par ligne",
+                "isCorrect" : true
+            }
+        ]
+        },
         {
             "question": "Vous avez gagné !"
         }
     ],
-    
     "maths" :[
     {
         "question": "Quelle est la somme des angles intérieurs d'un triangle ?",
@@ -219,7 +297,7 @@
         "question": "Vous avez gagné !"
     }
     ],
-    "anime" : [
+    "manga" : [
         {"question" : "Combien la Terre a de dragon balls ?",
         "reps": [
             {
@@ -277,11 +355,232 @@
             }
         ]
         },
-        
+        {"question" : "Comment s'appelle le personnage principal de Haikyuu ?",
+        "reps" : [
+            {
+                "rep" : "Kageyama Tobio",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Nishida Yuji",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Hinata Soyo",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Zinédine Zidane",
+                "isCorrect" : false
+            }
+        ]
+        },
+        {"question" : "C'est quoi un Death Note ?",
+        "reps" : [
+            {
+                "rep" : "Un cahier permettant de tuer n'importe qui",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Le journal intime d'un Dieu de la Mort",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Un 0 à ton devoir de maths",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Un message de tes parents disant qu'ils veulent te parler",
+                "isCorrect" : false
+            }
+        ]
+        },
+        {"question" : "Quelle est le vrai nom du personnage principal de Vagabond ?",
+        "reps" : [
+            {
+                "rep" : "Miyamoto Musashi",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Takezo Shinmen",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Zoro Roronoa",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Shinmen Bennosuke",
+                "isCorrect" : false
+            }
+        ]
+        },{"question" : "Quel autre manga très connu est une oeuvre de Takehiko Inoue ?",
+        "reps" : [
+            {
+                "rep" : "Kingdom",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Vinland Saga",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Berserk",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Slam Dunk",
+                "isCorrect" : true
+            }
+        ]
+        },
+
+        {
+            "question": "Vous avez gagné !"
+        }
+    ],
+    "cinéma" : [
+        {"question" : "Qui a remporté l'Oscar du meilleur réalisateur pour 'La La Land' en 2017 ?",
+        "reps": [
+            {
+                "rep": "Quentin Tarantino",
+                "isCorrect":false
+            },
+            {
+                "rep": "Dammien Chazelle",
+                "isCorrect": true
+            },
+            {
+                "rep" : "Christopher Nolan",
+                "isCorrect" : false
+            },
+            {
+                "rep": "James Cameron",
+                "isCorrect" : false
+            }
+        ]
+        },
+        {"question" : "Quel acteur interprète le rôle de Forest dans 'Forest Gump' ?",
+        "reps" : [
+            {
+                "rep" : "Tom Hanks",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Leonardo DiCaprio",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Matt Damon",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Brad Pitt",
+                "isCorrect" : false
+            }
+        ]
+        },
+        {"question" : "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+        "reps" : [
+            {
+                "rep" : "1917",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Parasite",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Joker",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Mariage Story",
+                "isCorrect" : false
+            }
+        ]
+        },
+        {"question" : "Quelle actrice a remporté l'Oscar de la meilleure actrice pour 'Black Swan' ?",
+        "reps" : [
+            {
+                "rep" : "Scarlette Johansson",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Anna Hathaway",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Jennifer Lawrence",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Natalie Portman",
+                "isCorrect" : true
+            }
+        ]
+        },
+        {"question" : "Quel film a introduit le personnage d'Hannibal Lecter ?",
+        "reps" : [
+            {
+                "rep" : "Dragon Rouge",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Le Silence des agneaux",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Hannibal Lecter : Les Origines du mal",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Psychose",
+                "isCorrect" : false
+            }
+        ]
+        },
+        {"question" : "Quel a été le premier film à gagner l'Oscar du meilleur film en 1929 ?",
+        "reps" : [
+            {
+                "rep" : "Wings",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Gone with the Wind",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Casablanca",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "The Godfather",
+                "isCorrect" : false
+            }
+        ]
+        },{"question" : "Qui est le réalisateur de 'Birdman' ?",
+        "reps" : [
+            {
+                "rep" : "Alfonso Cuarón",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Guillermon del Toro",
+                "isCorrect" : false
+            },
+            {
+                "rep" : "Alejandro G. Iñárritu",
+                "isCorrect" : true
+            },
+            {
+                "rep" : "Edward Norton",
+                "isCorrect" : false
+            }
+        ]
+        },
         {
             "question": "Vous avez gagné !"
         }
     ]
-
-
 }
