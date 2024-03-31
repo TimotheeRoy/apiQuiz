@@ -4,8 +4,8 @@ const app = express();
 const cors = require("cors");
 
 const corsOtions = {
-    origin: ["https://quiz-app-topaz-theta.vercel.app/"],
-    optionSuccesStatus: 200,
+    origin: ["https://quiz-app-topaz-theta.vercel.app"],
+    optionsSuccessStatus: 200,
 };
 
 import questionData from "../questions.json";
