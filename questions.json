@@ -52,10 +52,6 @@
                 "isCorrect" : false
             },
             {
-                "rep" : "",
-                "isCorrect" : false
-            },
-            {
                 "rep" : "Un framework CSS",
                 "isCorrect" : true
             }
@@ -366,7 +362,7 @@
                 "isCorrect" : false
             },
             {
-                "rep" : "Hinata Soyo",
+                "rep" : "Hinata Shoyo",
                 "isCorrect" : true
             },
             {

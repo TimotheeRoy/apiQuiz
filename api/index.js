@@ -1,9 +1,16 @@
 import express from "express";
 import { json } from "express";
 const app = express();
+const cors = require("cors");
+
+const corsOtions = {
+    origin: ["https://quiz-app-topaz-theta.vercel.app/"],
+    optionSuccesStatus: 200,
+};
 
 import questionData from "../questions.json";
 
+app.use(cors(corsOtions));
 app.use(json());
 
 app.get("/quiz", (req, res) => {
